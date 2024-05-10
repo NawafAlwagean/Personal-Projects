@@ -1,0 +1,10 @@
+This project implements a Java class named ThemeParkADT to manage visitor information in a theme park. It allows you to:
+
+Read visitor data (first and last name, region, pass type, phone number, visit order) from a file.
+Search for visitors by last name.
+Find the number of regions.
+Identify the most popular region (by total visitors).
+Determine the number of VIP visitors from a specific region.
+Locate VIP visitors in the park (shows their current location in the order they visit the kingdoms).
+Check if two VIP visitors are in the same location (and belong to the same region).
+Check if two regular visitors from the same region have the same order of visiting the kingdoms.
